@@ -1,0 +1,7 @@
+# Ignore the secret keys file
+.env
+
+# Ignore the heavy python folders
+.venv/
+__pycache__/
+*.pyc
